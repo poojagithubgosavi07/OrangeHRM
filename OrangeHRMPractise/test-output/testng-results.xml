@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-16T22:25:29 IST" name="Default suite" finished-at="2024-12-16T22:26:08 IST" duration-ms="39062">
+    <groups>
+    </groups>
+    <test started-at="2024-12-16T22:25:29 IST" name="Default test" finished-at="2024-12-16T22:26:08 IST" duration-ms="39062">
+      <class name="com.orangeHRM.testcases.AddUserPageTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.orangeHRM.testcases.AddUserPageTest@18078bef]" started-at="2024-12-16T22:25:29 IST" name="loadConfig" finished-at="2024-12-16T22:25:29 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangeHRM.testcases.AddUserPageTest@18078bef]" started-at="2024-12-16T22:25:29 IST" name="setup" finished-at="2024-12-16T22:25:44 IST" depends-on-methods="com.orangeHRM.base.BaseClass.loadConfig" duration-ms="14484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAddUserUsername()[pri:1, instance:com.orangeHRM.testcases.AddUserPageTest@18078bef]" started-at="2024-12-16T22:25:44 IST" name="verifyAddUserUsername" finished-at="2024-12-16T22:25:47 IST" duration-ms="3092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddUserUsername -->
+        <test-method signature="verifyAddUserUserRole()[pri:2, instance:com.orangeHRM.testcases.AddUserPageTest@18078bef]" started-at="2024-12-16T22:25:47 IST" name="verifyAddUserUserRole" finished-at="2024-12-16T22:25:52 IST" duration-ms="5169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddUserUserRole -->
+        <test-method signature="veifyAddUserEMPname()[pri:3, instance:com.orangeHRM.testcases.AddUserPageTest@18078bef]" started-at="2024-12-16T22:25:52 IST" name="veifyAddUserEMPname" finished-at="2024-12-16T22:25:57 IST" duration-ms="5112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veifyAddUserEMPname -->
+        <test-method signature="verifyAddUserStatus()[pri:4, instance:com.orangeHRM.testcases.AddUserPageTest@18078bef]" started-at="2024-12-16T22:25:57 IST" name="verifyAddUserStatus" finished-at="2024-12-16T22:26:02 IST" duration-ms="5183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddUserStatus -->
+        <test-method signature="verifyPassword()[pri:5, instance:com.orangeHRM.testcases.AddUserPageTest@18078bef]" started-at="2024-12-16T22:26:02 IST" name="verifyPassword" finished-at="2024-12-16T22:26:08 IST" duration-ms="5268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRM.testcases.AddUserPageTest@18078bef]" started-at="2024-12-16T22:26:08 IST" name="tearDown" finished-at="2024-12-16T22:26:08 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.orangeHRM.testcases.AddUserPageTest@18078bef]" started-at="2024-12-16T22:26:08 IST" name="afterSuite" finished-at="2024-12-16T22:26:08 IST" depends-on-methods="com.orangeHRM.testcases.AddUserPageTest.tearDown" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.orangeHRM.testcases.AddUserPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
