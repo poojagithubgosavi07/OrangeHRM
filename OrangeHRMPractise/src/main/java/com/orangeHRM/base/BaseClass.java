@@ -26,11 +26,11 @@ import org.testng.annotations.Parameters;
 import com.orangeHRM.utility.ExtentManager;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+
 	/**
-	 * @author Hitendra: BaseClass is used to load the config file and Initialize 
-	 * WebDriver
-	 *  
+	 * BaseClass is used to load the config file and Initialize WebDriver
 	 */
+
 	public class BaseClass {
 		public static Properties prop;
 		public static WebDriver driver;

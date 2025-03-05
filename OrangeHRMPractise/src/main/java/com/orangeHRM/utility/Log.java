@@ -5,10 +5,6 @@ package com.orangeHRM.utility;
 
 import org.apache.log4j.Logger;
 
-/**
- * @author we
- *
- */
 public class Log {
 		
 		// Initialize Log4j logs

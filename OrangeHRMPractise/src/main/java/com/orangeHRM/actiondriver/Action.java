@@ -27,10 +27,6 @@
 	import org.openqa.selenium.support.ui.WebDriverWait;
 	import com.orangeHRM.base.BaseClass;
 
-	/**
-	 * @author Hitendra Verma added on 13th March2019
-	 *
-	 */
 	public class Action extends BaseClass {
 
 		public static WebDriver driver;
