@@ -27,6 +27,8 @@
 	import org.openqa.selenium.support.ui.WebDriverWait;
 	import com.orangeHRM.base.BaseClass;
 
+	/*To perform an action such as click, sendkeys, mousehover, draganddrop etc.*/
+	
 	public class Action extends BaseClass {
 
 		public static WebDriver driver;
